@@ -1,8 +1,0 @@
-2 7 uvm_pkg 4 fast 59 /mnt/storage_A/eda_tools/questa-quartus/questa_fse/uvm-1.1d 0 0 26345472 0 136476 0
-2 14 questa_uvm_pkg 4 fast 59 /mnt/storage_A/eda_tools/questa-quartus/questa_fse/uvm-1.1d 0 0 1350656 26345472 7091 0
-1 7 dma_pkg 4 fast 41 /mnt/storage_A/project_DV/DMA_module/work 0 0 1111040 26345472 1257 0
-1 17 testbench_sv_unit 4 fast 41 /mnt/storage_A/project_DV/DMA_module/work 0 0 0 26607616 0 0
-2 6 dma_if 5 synth 41 /mnt/storage_A/project_DV/DMA_module/work 0 0 0 0 0 0
-2 6 dma_if 7 fast__2 41 /mnt/storage_A/project_DV/DMA_module/work 0 0 0 0 79 0
-2 11 generic_dma 4 fast 41 /mnt/storage_A/project_DV/DMA_module/work 0 0 0 0 28 0
-1 6 tb_top 4 fast 41 /mnt/storage_A/project_DV/DMA_module/work 0 0 0 26607616 64 0
